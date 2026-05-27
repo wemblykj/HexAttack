@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexAttack", "HexAttack\HexAttack.csproj", "{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexLib", "HexLib\HexLib.csproj", "{254DABBC-8A50-4C08-AC7D-D688281E28FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexLib.Tests", "HexLib.Tests\HexLib.Tests.csproj", "{BF611E3F-2020-499D-9007-3F7A2742798B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D49D3F5-0AD7-4C2C-BA24-3702312AE18F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{254DABBC-8A50-4C08-AC7D-D688281E28FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254DABBC-8A50-4C08-AC7D-D688281E28FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254DABBC-8A50-4C08-AC7D-D688281E28FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254DABBC-8A50-4C08-AC7D-D688281E28FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF611E3F-2020-499D-9007-3F7A2742798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF611E3F-2020-499D-9007-3F7A2742798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF611E3F-2020-499D-9007-3F7A2742798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF611E3F-2020-499D-9007-3F7A2742798B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B4D158-FB3F-456E-BD4E-17CDF8771D14}
+	EndGlobalSection
+EndGlobal
